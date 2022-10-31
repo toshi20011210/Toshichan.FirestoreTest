@@ -22,11 +22,13 @@ class MainActivity : AppCompatActivity() {
         // ボタンを押したときの処理
         binding.sendButton.setOnClickListener {
             // インスタンス化
+            //data class
             val dataToSend = Datas(
                 //date = nothing for now
                 name = binding.nameInput.text.toString(),
                 text = binding.textInput.text.toString()
             )
+            //collection name
             db.collection("log")
                 .add(dataToSend)
                 .addOnSuccessListener { documentReference ->

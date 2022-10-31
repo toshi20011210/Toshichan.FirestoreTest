@@ -45,7 +45,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.7.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
-    //add auto by typing firebase.
+    //add auto by typing firebase. adding manually should work as well
     implementation 'com.google.firebase:firebase-common-ktx:20.2.0'
 
     //add
