@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837605625447",
+    "project_id": "firestore-test-6cd5a",
+    "storage_bucket": "firestore-test-6cd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837605625447:android:459e3461a22c6d79908ec2",
+        "android_client_info": {
+          "package_name": "app.takahashi.toshichan.firestoretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837605625447-vkk5si78hj2j8d6cnrtencorchafbghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhE08UAqj1oYJgTVa2sKqVvEwzKa1qH2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837605625447-vkk5si78hj2j8d6cnrtencorchafbghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
